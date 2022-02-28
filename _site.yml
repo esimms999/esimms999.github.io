@@ -1,0 +1,9 @@
+name: "phil_retirement"
+output_dir: "."
+navbar:
+  title: "Phil's Retirement"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
